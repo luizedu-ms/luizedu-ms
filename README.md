@@ -10,8 +10,7 @@ where I intend to specialize and in the future find a job in the area.
   <a href="https://github.com/luizedu-ms">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizedu-ms&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizedu-ms&layout=compact&langs_count=16&theme=dark" /> </a>
-</div>
-
+<div>
   
  ##
   
