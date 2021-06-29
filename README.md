@@ -1,9 +1,9 @@
 ## Olá, Eu sou Luiz Eduardo
+<div>
+<img align="right" src="https://saturdays.ai/wp-content/uploads/2021/03/clip-programming.png" width="500px"/> 
+Tenho 23 anos e estudo programação há alguns anos, atualmente me dedico na area do {Front-End}, onde quero me especializar.
+</div>
 
-
-Tenho 23 anos e estudo programação há alguns anos, atualmente me dedico na area do <Desenvolvimento="Front-End"/>, onde quero me especializar.
-
- 
 ## Skills
 <div>
     <img  align="center" alt="Luiz-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,3 +31,7 @@ Tenho 23 anos e estudo programação há alguns anos, atualmente me dedico na ar
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luizedu-ms&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizedu-ms&layout=compact&langs_count=16&theme=gotham"/></a>
 </div>
+
+
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=luizedu-ms&repo=luizedu-ms&countColorcountColor)
+
