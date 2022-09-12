@@ -1,7 +1,7 @@
 ## Olá, Eu sou Luiz Eduardo
 <div>
 <img align="right" src="https://saturdays.ai/wp-content/uploads/2021/03/clip-programming.png" width="500px"/> 
-Tenho 23 anos e estudo programação há alguns anos, atualmente me dedico na area do {Front-End}, onde quero me especializar.
+Tenho 23 anos e estudo programação há alguns anos, atualmente me dedico na area do {Mobile - IOS}, onde quero me especializar.
 </div>
 
 ## Skills
