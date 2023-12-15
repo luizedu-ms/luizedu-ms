@@ -1,7 +1,9 @@
 ## Olá, Eu sou Luiz Eduardo
 <div>
 <img align="right" src="https://saturdays.ai/wp-content/uploads/2021/03/clip-programming.png" width="500px"/> 
-Tenho 23 anos e estudo programação há alguns anos, atualmente me dedico na area do {Mobile - IOS}, onde quero me especializar.
+Atualmente estou cursando o 4ª período de Análise e Desenvolvimento de Sistema na UNIP, também possuo uma Formação Inicial e Continuada em Programação Web Básica, possuo também um certificado de Graduação Nível 1 em Comunicação Digital no HCC (Houston Community College) após um período de intercâmbio nos EUA. 
+
+Como experiência, já atuei como Web Designer e Editor para uma empresa americana, atuei também como desenvolvedor mobile - Swift, voltado para apps iOS, e atualmente como Analista de Suporte Junior.
 </div>
 
 ## Skills
