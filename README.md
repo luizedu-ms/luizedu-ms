@@ -1,8 +1,8 @@
 ## Olá, Eu sou Luiz Eduardo
 <div>
 <img align="right" src="https://saturdays.ai/wp-content/uploads/2021/03/clip-programming.png" width="250px"/> 
-<p></p>Atualmente estou cursando o 4ª período de Análise e Desenvolvimento de Sistema na UNIP, também possuo uma Formação Inicial e Continuada em Programação Web Básica, possuo também um certificado de Graduação Nível 1 em Comunicação Digital no HCC (Houston Community College) após um período de intercâmbio nos EUA. </p>
-<p>Como experiência, já atuei como Web Designer e Editor para uma empresa americana, atuei também como desenvolvedor mobile - Swift, voltado para apps iOS, e atualmente como Analista de Suporte Junior.</p>
+<p></p>Formado em Análise e Desenvolvimento de Sistema pela Universidade Paulista - UNIP, possuo também uma curso de formação em Desenvolvimento Web, como também um certificado de Especialização Simples em Comunicação Digital e Efeitos Visuais no HCC (Houston Community College) após um período de intercâmbio nos Estados Unidos. </p>
+<p>Como experiência profissional, atuei como Web Designer, após isso trabalhei como Assistente de Suporte de TI, e depois como Desenvolvedor Mobile, voltado para apps iOS, consolidando minhas habilidades em codificação e resolução de problemas. Atualmente, desempenho o papel de Analista de Suporte de TI, onde continuo a aplicar minha experiência técnica enquanto busco oportunidades para aprimorar minhas habilidades de desenvolvimento..</p>
 </div>
 
 ## Skills
